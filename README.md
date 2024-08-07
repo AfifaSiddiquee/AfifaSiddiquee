@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Afifa Siddiqui! I'm currently pursuing a degree in Data Science at NED University of Engineering and Technology. I have developed strong skills in Python, SQL, Machine Learning, data manipulation, data visualization, data analysis, data cleaning, Power BI, object-oriented programming, data structures and algorithms, C, and C++. I am very passionate about continuous learning and exploration. I am always eager to collaborate on exciting projects and connect with others in the tech community.
+Hi, I’m Afifa Siddiqui, a Data Science student at NED University of Engineering and Technology. I have developed a robust skill set in Python, SQL, Machine Learning, data manipulation, data visualization, data analysis, data cleaning, Power BI, object-oriented programming, data structures and algorithms, as well as C and C++. I am deeply passionate about continuous learning and innovation in the field. I am enthusiastic about collaborating on impactful projects and connecting with professionals in the tech community.
 
 
 ## 🌐 Socials:
